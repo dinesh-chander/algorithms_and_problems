@@ -1,3 +1,3 @@
-"# algorithms_and_problems"
+# algorithms_and_problems
 
 Leetcode problems I have worked on.
